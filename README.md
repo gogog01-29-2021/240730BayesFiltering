@@ -1,4 +1,6 @@
 
+Inverse variance weighted average
+
 240730
 pip install opencv-python
 2d pose odometry?
